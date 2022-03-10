@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soomst
 - 👀 I’m interested in front, native
 - 🌱 I’m currently learning react
-- 📫 How to reach me gmail
+- 📫 How to reach me dogok1703@gmail.com
 - 📝 my blog is [here](https://soomst.tistory.com/)!
 
 <!---
